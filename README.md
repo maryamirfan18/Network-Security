@@ -1,7 +1,6 @@
 # Network-Security
 This repository contains a comprehensive overview and resources related to network security principles and practices. Topics covered include various forms of cyber-attacks, defense mechanisms, encryption, firewalls, intrusion detection systems, and protocols. This information is geared towards improving understanding of network security for both academic and professional environments.<br/>
 
-<br/>
 **Key Topics:**
 1.	Networking
 2.	Networking at a Glance
