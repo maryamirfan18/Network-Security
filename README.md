@@ -10,7 +10,7 @@ This repository contains a comprehensive overview and resources related to netwo
 6.	WiFi
 7.	Ports and Protocols (Applications/Services)
 8.	Types of Threats
-9.	Intrusion Detection Systems
+9.	Intrusion Detection Systems<br/>
     -Host-based Intrusion Detection System (HIDS)<br/>
     -Network Intrusion Detection System (NIDS)
 12.	Security Information and Event Management (SIEM)
