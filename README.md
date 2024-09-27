@@ -10,8 +10,8 @@ This repository contains a comprehensive overview and resources related to netwo
 7.	Ports and Protocols (Applications/Services)
 8.	Types of Threats
 9.	Intrusion Detection Systems
-10.	Host-based Intrusion Detection System (HIDS)
-11.	Network Intrusion Detection System (NIDS)
+    -Host-based Intrusion Detection System (HIDS)
+    -Network Intrusion Detection System (NIDS)
 12.	Security Information and Event Management (SIEM)
 13.	Preventing Threat
 14.	Antivirus
@@ -34,12 +34,12 @@ This repository contains a comprehensive overview and resources related to netwo
 31.	Segmentation for Embedded Systems and IoT
 32.	Microsegmentation
     
-**Objectives:**
+**Objectives:**   <br/>
 •	Provide in-depth knowledge on how to safeguard networks from various security threats.<br/>
 •	Explore modern network security tools and strategies.<br/>
 •	Offer practical examples and case studies related to network protection.<br/>
 
-**Repository Contents:**
+**Repository Contents:**  <br/>
 •	Documentation: Detailed resources and explanations of network security concepts.<br/>
 •	Case Studies: Real-world examples demonstrating the importance of robust security measures.<br/>
 
