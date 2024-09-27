@@ -1,7 +1,7 @@
 # Network-Security
 This repository contains a comprehensive overview and resources related to network security principles and practices. Topics covered include various forms of cyber-attacks, defense mechanisms, encryption, firewalls, intrusion detection systems, and protocols. This information is geared towards improving understanding of network security for both academic and professional environments.<br/>
 
-**Key Topics:**
+## Key Topics:  
 1.	Networking
 2.	Networking at a Glance
 3.	Open Systems Interconnection (OSI) Model
@@ -35,12 +35,12 @@ This repository contains a comprehensive overview and resources related to netwo
 31.	Segmentation for Embedded Systems and IoT
 32.	Microsegmentation
     
-**Objectives:**   <br/>
+## Objectives:   <br/>
 •	Provide in-depth knowledge on how to safeguard networks from various security threats.<br/>
 •	Explore modern network security tools and strategies.<br/>
 •	Offer practical examples and case studies related to network protection.<br/>
 
-**Repository Contents:**  <br/>
+## Repository Contents:  <br/>
 •	Documentation: Detailed resources and explanations of network security concepts.<br/>
 •	Case Studies: Real-world examples demonstrating the importance of robust security measures.<br/>
 
